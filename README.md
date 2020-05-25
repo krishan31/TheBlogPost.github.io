@@ -1,4 +1,5 @@
 "The Blog Post" 
+
 A site that gives a demonstration to a digital newspaper - Article, Headlines, Stories, Posts, and news updates.
 All the Content is dynamically rendered to the page.
 . Admin Dashboard to publish new post.
