@@ -2,8 +2,8 @@
 
 $host = 'localhost';
 $user = 'root';
-$pass = 'Krishan@1998';
-$db_name = 'project-1';
+$pass =
+$db_name = 
 
 $conn = new MySQLi($host, $user, $pass, $db_name);
 
