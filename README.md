@@ -2,9 +2,12 @@
 
 A site that gives a demonstration to a digital newspaper - Article, Headlines, Stories, Posts, and news updates.
 All the Content is dynamically rendered to the page.
+
 . Admin Dashboard to publish new post.
 
-All the content is dynamically rendered to the page. Integrated the covid-19.com API
+All the content is dynamically rendered to the page. 
+
+Integrated the covid-19.com API
 
 
 
